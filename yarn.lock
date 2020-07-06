@@ -1391,10 +1391,10 @@
     prop-types "^15.7.2"
     react-is "^16.8.0"
 
-"@material-ui/x-grid@^0.1.40":
-  version "0.1.40"
-  resolved "https://registry.yarnpkg.com/@material-ui/x-grid/-/x-grid-0.1.40.tgz#244ac706a2c9c89d4a03d19e92567a079bebdaa6"
-  integrity sha512-FqE8WoFuLFhgmDEmcqiYpwrvO2hF3SKwmYwICSseYPh4VYflxOWq3/QWXMCvV9kVVrY91a7YJVacbgurSqmHrg==
+"@material-ui/x-grid@^0.1.44-alpha.2+4604f06":
+  version "0.1.44-alpha.2"
+  resolved "https://registry.yarnpkg.com/@material-ui/x-grid/-/x-grid-0.1.44-alpha.2.tgz#514eeb0dd18f52b9972024a603c4286c4c0b08cc"
+  integrity sha512-db3nRxUWy9UT83GG/z3banmo8cuvZihEfP8EoPNVznG+VxOstDpByyFl83RV/OIXdlWB6URjVPnx/BvX8Zp04Q==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
